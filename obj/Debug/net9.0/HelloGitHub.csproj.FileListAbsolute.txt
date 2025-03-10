@@ -1,0 +1,14 @@
+C:\Users\joyce\HelloGitHub\bin\Debug\net9.0\HelloGitHub.exe
+C:\Users\joyce\HelloGitHub\bin\Debug\net9.0\HelloGitHub.deps.json
+C:\Users\joyce\HelloGitHub\bin\Debug\net9.0\HelloGitHub.runtimeconfig.json
+C:\Users\joyce\HelloGitHub\bin\Debug\net9.0\HelloGitHub.dll
+C:\Users\joyce\HelloGitHub\bin\Debug\net9.0\HelloGitHub.pdb
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.AssemblyInfoInputs.cache
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.AssemblyInfo.cs
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.csproj.CoreCompileInputs.cache
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.dll
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\refint\HelloGitHub.dll
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.pdb
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\HelloGitHub.genruntimeconfig.cache
+C:\Users\joyce\HelloGitHub\obj\Debug\net9.0\ref\HelloGitHub.dll
